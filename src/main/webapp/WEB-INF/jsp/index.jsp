@@ -109,20 +109,20 @@
         <label for="department">
           <select name="department" required="required">
             <option value="" disabled selected hidden>Choose your department!</option>
-            <option value="ahuachapan">Ahuachapán</option>
-            <option value="santaAna">Santa Ana</option>
-            <option value="sonsonate">sonsonate</option>
-            <option value="laLibertad">La Libertad</option>
-            <option value="chalatenango">Chalatenango</option>
-            <option value="cuscatlan">Cuscatlán</option>
-            <option value="sanSalvador">San Salvador</option>
-            <option value="laPaz">La Paz</option>
-            <option value="cabanias">Cabañas</option>
-            <option value="sanVicente">San Vicente</option>
-            <option value="usulutan">Usulután</option>
-            <option value="sanMiguel">San Miguel</option>
-            <option value="morazan">Morazán</option>
-            <option value="laUnion">La Unión</option>
+            <option value="Ahuachapán">Ahuachap&aacute;n</option>
+            <option value="Santa Ana">Santa Ana</option>
+            <option value="Sonsonate">Sonsonate</option>
+            <option value="La Libertad">La Libertad</option>
+            <option value="Chalatenango">Chalatenango</option>
+            <option value="Cuscatlán">Cuscatl&aacute;n</option>
+            <option value="San Salvador">San Salvador</option>
+            <option value="La Paz">La Paz</option>
+            <option value="Cabañas">Caba&ntilde;as</option>
+            <option value="San Vicente">San Vicente</option>
+            <option value="Usulután">Usulut&aacute;n</option>
+            <option value="San Miguel">San Miguel</option>
+            <option value="Morazán">Moraz&aacute;n</option>
+            <option value="La Unión">La Uni&oacute;n</option>
           </select>
         </label>
       </fieldset>
